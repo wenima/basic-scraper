@@ -19,3 +19,5 @@ For more information on the assignment, see here: https://codefellows.github.io/
 
 
 # Comments about implementation:
+* local html page could not be committed to github because:
+fatal: CRLF would be replaced by LF in src/inspection_page.html
